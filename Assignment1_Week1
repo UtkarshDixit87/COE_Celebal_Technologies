@@ -1,0 +1,7 @@
+patt = "* "
+rep_count = 15  # The number of asterisks you want in the pattern
+
+for i in range(rep_count):
+    print(patt, end="")
+
+print()  
